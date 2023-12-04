@@ -1,0 +1,15 @@
+product_id,title,description,price,category_id
+ef2fe056-1201-4aaf-bc56-0aeb9b6f36ee,Laptop,High-performance laptop,999.99,f2e28553-2b43-4d61-bb4d-20a2b88048a0
+3a89e838-23c3-4782-808a-b5c0a1f4f6e1,Smartphone,Flagship smartphone,599.99,f2e28553-2b43-4d61-bb4d-20a2b88048a0
+8c222aae-0e54-49e7-8e48-37842fbc8f6c,T-shirt,Cotton T-shirt,19.99,2ff524f8-e00a-47d3-b2a4-2fe8ec64987d
+6149f351-c808-4db2-93a2-9140b80ea531,Jeans,Skinny jeans,49.99,2ff524f8-e00a-47d3-b2a4-2fe8ec64987d
+ba7bbf35-3787-46a2-b78b-07a7b39c9ab8,Sofa,Large comfortable sofa,799.99,136d0e79-295b-4cf1-8e86-d7578c637d94
+69d4c6a1-25ce-4f87-9442-46d4d0f2db5e,Coffee Table,Wooden coffee table,129.99,136d0e79-295b-4cf1-8e86-d7578c637d94
+f7f5104f-6ad3-4abf-8cfb-bd2a56cb74ea,Novel,Best-selling novel,14.99,d746fc29-ea09-4688-818b-63d6bb6822fc
+3c98c83c-0bc4-45ed-a6a4-81e7319ef8bf,Cookbook,Healthy recipes cookbook,29.99,d746fc29-ea09-4688-818b-63d6bb6822fc
+760c6e72-6b83-41f4-8a16-9807d762e76b,Shampoo,Moisturizing shampoo,9.99,cecb9b9f-2b9e-4f7c-a4f0-3965a3e21a4a
+c104c7fe-b87d-44f1-8ae3-bbba07d73d50,Perfume,Long-lasting fragrance,49.99,cecb9b9f-2b9e-4f7c-a4f0-3965a3e21a4a
+7ea7a7b5-cc9e-405e-8ab4-c8e3e8dd22f2,Headphones,Noise-canceling headphones,149.99,f2e28553-2b43-4d61-bb4d-20a2b88048a0
+8c74f072-9cc4-4b12-b15c-0e7d40e06a48,Watch,Stylish wristwatch,89.99,f2e28553-2b43-4d61-bb4d-20a2b88048a0
+5519c993-3f1a-4cc3-8d8b-e4b3e9144dfb,Sweater,Warm knitted sweater,39.99,2ff524f8-e00a-47d3-b2a4-2fe8ec64987d
+201651bc-dc06-43b0-92bf-36da75479338,Skirt,Floral-printed skirt,29.99,2ff524f8-e00a-47d3-b2a4-2fe8ec64987d
